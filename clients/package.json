@@ -17,8 +17,6 @@
     "@mdi/font": "^7.4.47",
     "@saf/vue-spa": "*",
     "@tanstack/vue-query": "^5.64.2",
-    "@your-org/client-requests": "*",
-    "@your-org/clients-common": "*",
     "@your-org/specs-apis": "*",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/tsconfig": "^0.7.0",
