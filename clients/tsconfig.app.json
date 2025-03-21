@@ -21,7 +21,7 @@
     "auth/**/*.vue",
     "landing/**/*.ts",
     "landing/**/*.vue",
-    "*.ts",
-    "*.vue", "requests/client.ts",
+    "*.vue",
+    "requests/client.ts"
   ]
 }
